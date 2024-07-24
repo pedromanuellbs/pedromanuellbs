@@ -17,3 +17,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromanuellbs&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Langs">
 </div>
+
+<div align="center">
+  <img alt="pedromanuellbs's Github Activity Graph" src="https://camo.githubusercontent.com/495614ccc056227e1d8840af139a0d4beda00653f094c5bcca48ae1b764c2776/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d667a7273616869267468656d653d6f6e652d6461726b267261646975733d313026686964655f626f726465723d7472756526617265613d74727565267469746c655f636f6c6f723d65346266376126636f6c6f723d38656235373326706f696e743d646636643734" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=pedromanuellbs&amp;theme=one-dark&amp;radius=10&amp;hide_border=true&amp;area=true&amp;title_color=e4bf7a&amp;color=8eb573&amp;point=df6d74" style="max-width: 100%;">
+</div>
