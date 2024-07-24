@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true" alt="Ashutosh's github activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedromanuellbs&custom_title=This%20is%20a%20title&hide_border=true" alt="Pedro Manuel Lamberto Buu Sada's github activity graph">
   </a>
 </div>
 
