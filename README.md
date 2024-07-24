@@ -9,5 +9,7 @@
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">GitHub Stats</h2></div>
 
 <div align="center">
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pedromanuellbs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pedromanuellbs/github-readme-stats#gh-dark-mode-only)
+  <a href="https://github.com/pedromanuellbs/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=pedromanuellbs&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark">
+  </a>
 </div>
