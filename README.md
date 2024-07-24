@@ -13,3 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=pedromanuellbs&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark">
   </a>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs">
+</div>
