@@ -8,3 +8,6 @@
 
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">GitHub Stats</h2></div>
 
+<div alignt="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
