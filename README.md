@@ -1,4 +1,4 @@
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Hi there! 👋</h3></div>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">idk what im doing lol</h3></div>
 
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">Spotify Recently Played</h2></div>
 
